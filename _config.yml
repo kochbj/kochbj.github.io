@@ -56,8 +56,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Bernard Koch"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Bernie"
+  avatar : "https://avatars.githubusercontent.com/u/293553?s=400&u=a3aa1ae757db01ea9a37d33e0691cbe03ec65c2f&v=4"
   bio    : "I'm a PhD student in the Sociology Department at UCLA. I'm a sociologist of culture in science. I'm also interested in machine learning, causal inference, and Bayesian modeling."
   location: "Los Angeles, CA"
   links:
