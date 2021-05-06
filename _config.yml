@@ -74,7 +74,7 @@ author:
 
 footer:
   links:
-     - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bernard-koch-b2a5546a/"
     - label: "Twitter"
