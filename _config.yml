@@ -16,11 +16,9 @@
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  I am a PhD student in the Sociology Department at UCLA. I'm interested in the sociology of science and culture. I'm also interested in DL, Networks, and Bayesian modeling.
+twitter_username: bernardjkoch
+github_username: kochbj
 minimal_mistakes_skin: default
 search: true
 
@@ -58,19 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Bernard Koch"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+      - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "UCLA Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://soc.ucla.edu/grads/bernard-koch"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
