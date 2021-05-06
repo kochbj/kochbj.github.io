@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am a PhD student in the Sociology Department at UCLA. I'm interested in the sociology of science and culture. I'm also interested in DL, Networks, and Bayesian modeling.
 twitter_username: bernardjkoch
 github_username: kochbj
-linkedin: "bernard-koch-b2a5546a"
 minimal_mistakes_skin: default
 search: true
 
@@ -60,6 +59,7 @@ author:
   name   : "Bernard Koch"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "Los Angeles"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -67,12 +67,16 @@ author:
     - label: "UCLA Website"
       icon: "fas fa-fw fa-link"
       url: "https://soc.ucla.edu/grads/bernard-koch"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bernard-koch-b2a5546a/"
+     
 
 footer:
   links:
+     - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bernard-koch-b2a5546a/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
