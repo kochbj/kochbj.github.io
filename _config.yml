@@ -58,8 +58,8 @@ plugins:
 author:
   name   : "Bernard Koch"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  location: "Los Angeles"
+  bio    : "I'm a PhD student in the Sociology Department at UCLA. I'm a sociologist of culture in science. I'm also interested in machine learning, causal inference, and Bayesian modeling."
+  location: "Los Angeles, CA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,15 +74,15 @@ author:
 
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bernard-koch-b2a5546a/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
 
 defaults:
   # _posts
