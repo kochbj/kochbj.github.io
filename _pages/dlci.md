@@ -5,7 +5,7 @@ date: 2021-05-06
 layout: splash
 ---
 
-# Deep Learning Models for Causal Inference (under selection on observables)
+# Deep Learning Models for Causal Inference (under Selection on Observables)
 
 While there is a lot of interest in using causal inference to improve deep learning, there aren't many examples of how deep learning can be used for statistical estimation in social science. This repository contains extensive tutorials for building deep learning models to do causal estimation under selection on observables.
 
