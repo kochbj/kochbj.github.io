@@ -1,6 +1,8 @@
 main:
   - title: "CV"
     url: /files/bernardkoch_cv.pdf
+  - title: "Papers"
+    url: /papers/    
   - title: "Tutorials"
     url: /tutorials/
   #- title: "Posts"
