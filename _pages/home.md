@@ -12,7 +12,7 @@ feature_row:
   title: "DL + PO"
   excerpt: "Building deep learning estimators for causal inference."
   url: "/home/"
-- image_path: /files/blanksquare.jpg
+- image_path: /files/White-Square.jpg
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
   excerpt: "Studying cultural change through birth/death rates."
