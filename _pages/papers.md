@@ -27,6 +27,6 @@ The genome of the ctenophore Mnemiopsis leidyi.
 Ryan JF, Pang K, Schnitzler CE, Nguyen A-D, Moreland RT, Simmons DK, <b>Koch BJ</b>, Havlak P, NISC Comparative Sequencing Program, Smith SA, Putnam N, Dunn CW, Wolfsberg TG, Mullikin JC, Martindale MQ, Baxevanis AD. <b>Science</b>, 2013 Dec 13;342(6164).
 
 The diversification of the LIM superclass at the base of the metazoa increased subcellular complexity and promoted multicellular specialization.
-<b>Koch BJ*</b>, Ryan JF*, Baxevanis AD. <b>PLoS One</b>, 2012 March 15;7(3): e33261.
+<b>Koch BJ\*</b>, Ryan JF\*, Baxevanis AD. <b>PLoS One</b>, 2012 March 15;7(3): e33261.
 
 [\* denotes equal contribution]
