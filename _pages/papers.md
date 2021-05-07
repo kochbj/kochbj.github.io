@@ -10,7 +10,7 @@ HINTS: time series prediction via dynamic heterogeneous information network embe
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
 
 Uncovering sociological effect heterogeneity using tree-based machine learning.
-Brand JE, Xu J, <b>Koch BJ</b>, Geraldo PE. <b>Sociological Methodology</b>, in press.
+Brand JE, Xu J, <b>Koch BJ</b>, Geraldo PE. <b>Sociological Methodology</b>, 2021.
 
 A quantitative workflow for modeling diversification in technological systems.
 Gjesfjeld E, Silvestro D, Chang J, <b>Koch BJ</b>, Foster JG, Alfaro ME.  <b>PLoS One</b>, 2020 February 6;15(2): e0227579.
