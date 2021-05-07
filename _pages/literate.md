@@ -1,3 +1,10 @@
+---
+title: "Literate"
+permalink: /literate/
+date: 2021-05-06
+layout: splash
+---
+
 # Tutorials
 Detailed tutorials explaining the theory and how to use the models are [here](http://www.dysoc.org/cesmodules/diversification_module/) (thanks John Templeton Foundation, Cultural Evolution Society, and National Institute for Mathematical and Biological Synthesis!). If you're lazy the tutorials are linked below:
 
