@@ -9,7 +9,7 @@ feature_row:
 - image_path: /files/DLPOIcon.JPG
   alt: ""
   title: "DL + PO"
-  btn_label: "Test"
+  btn_label: 
   excerpt: "<b>Building deep learning estimators for causal inference.</b> Gentle intro to Tensorflow."
   url: "/home/"
 - image_path: /files/LiteRateIcon.png
