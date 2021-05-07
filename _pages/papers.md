@@ -1,3 +1,10 @@
+---
+title: "Academic Papers"
+permalink: /papers/
+date: 2021-05-06
+layout: splash
+---
+
 Jiang S, <b>Koch BJ</b>, Sun Y. HINTS: time series prediction via dynamic heterogeneous information network embedding. <b>WWW</b>, 2021.
 
 Brand JE, Xu J, <b>Koch BJ</b>, Geraldo PE. Uncovering sociological effect heterogeneity using tree-based machine learning. <b>Sociological Methodology</b>, in press.
