@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning and Potential Outcomes"
-permalink: /tutorials/dlci
+permalink: /dlci
 date: 2021-05-06
 layout: splash
 ---
