@@ -15,7 +15,7 @@ A quantitative workflow for modeling diversification in technological systems.
 Gjesfjeld E, Silvestro D, Chang J, <b>Koch BJ</b>, Foster JG, Alfaro ME.  <b>PLoS One</b>, 2020 February 6;15(2): e0227579.
 
 Machine learning.
-Brand JE*, <b>Koch BJ</b>*, Xu J*. in <i>SAGE Research Methods</i> in the Social Sciences Foundation. Paul Atkinson, Sara Delamont, Alexandru Cernat, Joseph W. Sakshaug, and Richard A. Williams. eds. 2020.
+Brand JE\*, <b>Koch BJ</b>\*, Xu J\*. in <i>SAGE Research Methods</i> in the Social Sciences Foundation. Paul Atkinson, Sara Delamont, Alexandru Cernat, Joseph W. Sakshaug, and Richard A. Williams. eds. 2020.
 
 The maternal‐zygotic transition and zygotic activation of the Mnemiopsis leidyi genome occurs within the first three cleavage cycles.
 Davidson PL, <b>Koch BJ</b>, Schnitzler CE, Henry JQ, Martindale MQ, Baxevanis AD, Browne WE. <b>Mol Reprod Dev.</b>, 2017 Oct 25;84: 1218–1229.
