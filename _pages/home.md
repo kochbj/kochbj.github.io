@@ -6,7 +6,7 @@ layout: single
 
 # Tutorials
 feature_row:
-- image_path: https://avatars.githubusercontent.com/u/293553?s=120&v=4
+- image_path: assets/images/DLPO.png
   alt: "photo of students learning about inequality"
   excerpt: "[Teaching courses](/teaching/) in US educational history, policy, practice; data visualization"
   url: "/home/"
