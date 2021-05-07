@@ -45,6 +45,11 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-L667CNSHX9"
+    anonymize_ip: false # default
 
 # Plugins (previously gems:)
 plugins:
