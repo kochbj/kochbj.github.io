@@ -6,7 +6,7 @@ layout: single
 
 # Tutorials
 feature_row:
-- image_path: /files/DLPOIcon.jpg
+- image_path: /files/DLPOIcon.JPG
   alt: ""
   excerpt: "<b>Building deep learning estimators for causal inference.</b> Gentle intro to Tensorflow."
   url: "/home/"
