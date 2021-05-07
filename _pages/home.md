@@ -3,6 +3,7 @@ title: ""
 permalink: /
 date: 2021-05-06
 layout: single
+classes: wide
 
 # Tutorials
 feature_row:
