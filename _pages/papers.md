@@ -19,7 +19,7 @@ Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
 [Uncovering sociological effect heterogeneity using tree-based machine learning.](https://kochbj.github.io/files/papers/0081175021993503.pdf)  
 Brand JE, Xu J, <b>Koch BJ</b>, Geraldo PE. <b>Sociological Methodology</b>, 2021.
 
-[A quantitative workflow for modeling diversification in technological systems.](https://kochbj.github.io/files/papers/10.1371@journal.pone.0227579.pdf)
+[A quantitative workflow for modeling diversification in technological systems.](https://kochbj.github.io/files/papers/10.1371@journal.pone.0227579.pdf)  
 Gjesfjeld E, Silvestro D, Chang J, <b>Koch BJ</b>, Foster JG, Alfaro ME.  <b>PLoS One</b>, 2020 February 6;15(2): e0227579.
 
 [Machine learning.](https://kochbj.github.io/files/papers/MachineLearning.pdf)  
