@@ -6,17 +6,13 @@ layout: single
 
 # Tutorials
 feature_row:
-- image_path: /assets/images/DLPOIcon.png
+- image_path: /files/DLPOIcon.png
   alt: "photo of students learning about inequality"
-  excerpt: "[Teaching courses](/teaching/) in US educational history, policy, practice; data visualization"
+  excerpt: "Tutorial on building deep learning estimators for causal inference. Gentle intro to Tensorflow."
   url: "/home/"
 - image_path: https://avatars.githubusercontent.com/u/293553?s=120&v=4
   alt: "Ed Studies students in senior research seminar"
   excerpt: "[Advising students](/advising/) at Trinity College, Hartford, Connecticut"
-  url: "/home/"
-- image_path: https://avatars.githubusercontent.com/u/293553?s=120&v=4
-  alt: "sample appointment calendar"
-  excerpt: "[Schedule a 20-minute Zoom or phone meeting](https://calendly.com/jackdougherty/meeting) on my calendar"
   url: "/home/"
 
 ---
