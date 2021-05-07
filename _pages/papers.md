@@ -7,7 +7,7 @@ layout: splash
 
 # Papers and Works in Progress
 
-HINTS: time series prediction via dynamic heterogeneous information network embedding.  
+[HINTS: time series prediction via dynamic heterogeneous information network embedding.](https://kochbj.github.io/files/papers/HINTS.pdf)  
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
 
 Uncovering sociological effect heterogeneity using tree-based machine learning.
