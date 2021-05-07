@@ -10,7 +10,7 @@ feature_row:
   alt: ""
   excerpt: "<b>Building deep learning estimators for causal inference.</b> Gentle intro to Tensorflow."
   url: "/home/"
-- image_path: /files/LiteRateIcon.PNG
+- image_path: /files/LiteRateIcon.png
   alt: "Ed Studies students in senior research seminar"
   excerpt: "<b>Studying cultural change through birth/death rates</b>"
   url: "/home/"
