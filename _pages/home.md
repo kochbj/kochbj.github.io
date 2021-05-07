@@ -6,13 +6,13 @@ layout: single
 
 # Tutorials
 feature_row:
-- image_path: /files/DLPOIcon.PNG
-  alt: "photo of students learning about inequality"
-  excerpt: "Tutorial on building deep learning estimators for causal inference. Gentle intro to Tensorflow."
+- image_path: /files/DLPOIcon.jpg
+  alt: ""
+  excerpt: "<b>Building deep learning estimators for causal inference.</b> Gentle intro to Tensorflow."
   url: "/home/"
-- image_path: https://avatars.githubusercontent.com/u/293553?s=120&v=4
+- image_path: /files/LiteRateIcon.PNG
   alt: "Ed Studies students in senior research seminar"
-  excerpt: "[Advising students](/advising/) at Trinity College, Hartford, Connecticut"
+  excerpt: "<b>Studying cultural change through birth/death rates</b>"
   url: "/home/"
 
 ---
