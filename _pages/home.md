@@ -12,6 +12,7 @@ feature_row:
   btn_label: 
   excerpt: "<b>Building deep learning estimators for causal inference.</b> Gentle intro to Tensorflow."
   url: "/home/"
+- image_path: 
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
   btn_label: "Test"
