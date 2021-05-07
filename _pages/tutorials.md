@@ -10,12 +10,12 @@ feature_row:
   alt: ""
   title: "DL + PO"
   excerpt: "Building deep learning estimators for causal inference."
-  url: "/home/"
+  url: "/dlci/"
 - image_path: /files/White-Square.jpg
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
   excerpt: "Studying cultural change through birth/death rates."
-  url: "/home/"
+  url: "/tutorials/"
 
 ---
 # Hello!
