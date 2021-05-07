@@ -10,7 +10,7 @@ layout: splash
 [HINTS: time series prediction via dynamic heterogeneous information network embedding.](https://kochbj.github.io/files/papers/HINTS.pdf)  
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
 
-Uncovering sociological effect heterogeneity using tree-based machine learning.
+Uncovering sociological effect heterogeneity using tree-based machine learning.  
 Brand JE, Xu J, <b>Koch BJ</b>, Geraldo PE. <b>Sociological Methodology</b>, 2021.
 
 [A quantitative workflow for modeling diversification in technological systems.](https://kochbj.github.io/files/papers/10.1371@journal.pone.0227579.pdf)
