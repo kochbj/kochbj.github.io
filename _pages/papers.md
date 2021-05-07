@@ -22,8 +22,8 @@ Brand JE, Xu J, <b>Koch BJ</b>, Geraldo PE. <b>Sociological Methodology</b>, 202
 [A quantitative workflow for modeling diversification in technological systems.](https://kochbj.github.io/files/papers/10.1371@journal.pone.0227579.pdf)
 Gjesfjeld E, Silvestro D, Chang J, <b>Koch BJ</b>, Foster JG, Alfaro ME.  <b>PLoS One</b>, 2020 February 6;15(2): e0227579.
 
-Machine learning.  
-Brand JE\*, <b>Koch BJ</b>\*, Xu J\*. in <i>SAGE Research Methods</i> in the Social Sciences Foundation. Paul Atkinson, Sara Delamont, Alexandru Cernat, Joseph W. Sakshaug, and Richard A. Williams. eds. 2020.
+[Machine learning.](https://kochbj.github.io/files/papers/MachineLearning.pdf  
+Brand JE\*, <b>Koch BJ</b>\*, Xu J\*. in SAGE Research Methods Foundations in Big Data and Data Science [Flagship Entry]. Paul Atkinson, Sara Delamont, Alexandru Cernat, Joseph W. Sakshaug, and Richard A. Williams. eds. 2020.
 
 [The maternal‐zygotic transition and zygotic activation of the Mnemiopsis leidyi genome occurs within the first three cleavage cycles.](https://kochbj.github.io/files/papers/davidson2017.pdf)  
 Davidson PL, <b>Koch BJ</b>, Schnitzler CE, Henry JQ, Martindale MQ, Baxevanis AD, Browne WE. <b>Mol Reprod Dev.</b>, 2017 Oct 25;84: 1218–1229.
