@@ -6,7 +6,6 @@ layout: splash
 ---
 
 HINTS: time series prediction via dynamic heterogeneous information network embedding.
-
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
 
 Uncovering sociological effect heterogeneity using tree-based machine learning.
