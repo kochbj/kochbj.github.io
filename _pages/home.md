@@ -10,12 +10,12 @@ feature_row:
 - image_path: /files/DLPOIcon.JPG
   alt: ""
   title: "DL + PO"
-  excerpt: "Building deep learning estimators for causal inference."
+  excerpt: "Building deep learning estimators for causal inference. Gentle intro to Tensorflow 2."
   url: "/dlci/"
 - image_path: /files/White-Square.jpg
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
-  excerpt: "Studying cultural change through birth/death rates."
+  excerpt: "Studying change in (cultural, organizational, human) populations through birth/death rates."
   url: "/literate/"
 
 ---
