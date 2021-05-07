@@ -7,6 +7,12 @@ layout: splash
 
 # Papers and Works in Progress
 
+[The Evolutionary Dynamics of Cultural Change (As Told Through the Birth and Brutal, Blackened Death of Metal Music).](https://osf.io/preprints/socarxiv/659bt/download)  
+<b>Koch BJ</b>, Silvestro D, Foster JG. <b>(under review).</b>
+
+Deep Learning of Potential Outcomes.  
+<b>Koch BJ</b>, Sainburg T, Geraldo PE, Jiang S, Sun Y, Foster JG (order TBD). <b>(in progress).</b>
+
 [HINTS: time series prediction via dynamic heterogeneous information network embedding.](https://kochbj.github.io/files/papers/HINTS.pdf)  
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
 
