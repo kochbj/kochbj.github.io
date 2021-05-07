@@ -21,6 +21,6 @@ feature_row:
 
 ---
 # About me
-Hi! I'm Bernie
+Hi! I'm Bernie. You can read the sidebar to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat.
 ### Tutorials
 {% include feature_row %}
