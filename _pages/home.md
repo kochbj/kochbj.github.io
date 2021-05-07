@@ -6,7 +6,7 @@ layout: single
 
 # Tutorials
 feature_row:
-- image_path: assets/images/DLPO.png
+- image_path: assets/images/DLPOIcon.png
   alt: "photo of students learning about inequality"
   excerpt: "[Teaching courses](/teaching/) in US educational history, policy, practice; data visualization"
   url: "/home/"
