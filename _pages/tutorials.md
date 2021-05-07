@@ -15,7 +15,7 @@ feature_row:
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
   excerpt: "Studying cultural change through birth/death rates."
-  url: "/tutorials/"
+  url: "/literate/"
 
 ---
 # Tutorials 
