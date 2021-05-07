@@ -16,7 +16,7 @@
 title: Bernard J Koch
 email: bernard.koch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student in the Sociology Department at UCLA interested in science and culture. I also dabble in machine learning, causal inference, and Bayesian modeling.
+  Bernard Koch's personal website.
 twitter_username: bernardjkoch
 github_username: kochbj
 minimal_mistakes_skin: dirt
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Bernie"
   avatar : "https://avatars.githubusercontent.com/u/293553?s=400&u=a3aa1ae757db01ea9a37d33e0691cbe03ec65c2f&v=4"
-  bio    : "I'm a PhD student in the Sociology Department at UCLA. I'm a sociologist of culture in science. I'm also interested in machine learning, causal inference, and Bayesian modeling."
+  bio    : "I am a PhD student in the Sociology Department at UCLA interested in science and culture. I also dabble in machine learning, causal inference, and Bayesian modeling."
   location: "Los Angeles, CA"
   links:
     - label: "Email"
