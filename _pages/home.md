@@ -11,7 +11,7 @@ feature_row:
   alt: ""
   title: "DL + PO"
   excerpt: "Building deep learning estimators for causal inference."
-  url: "/tutorials/DLCI"
+  url: "/tutorials/DLCI/"
 - image_path: /files/White-Square.jpg
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
