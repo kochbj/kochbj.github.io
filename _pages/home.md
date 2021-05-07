@@ -8,9 +8,13 @@ layout: single
 feature_row:
 - image_path: /files/DLPOIcon.JPG
   alt: ""
+  title: "DL + PO"
+  btn_label: "Test"
   excerpt: "<b>Building deep learning estimators for causal inference.</b> Gentle intro to Tensorflow."
   url: "/home/"
 - image_path: /files/LiteRateIcon.png
+  title: "LiteRate"
+  btn_label: "Test"
   alt: "Ed Studies students in senior research seminar"
   excerpt: "<b>Studying cultural change through birth/death rates</b>"
   url: "/home/"
