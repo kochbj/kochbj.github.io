@@ -6,7 +6,7 @@ layout: splash
 ---
 
 # Papers and Works in Progress  
-  
+(with links to PDFs)
   
 [The Evolutionary Dynamics of Cultural Change (As Told Through the Birth and Brutal, Blackened Death of Metal Music).](https://osf.io/preprints/socarxiv/659bt/download)  
 <b>Koch BJ</b>, Silvestro D, Foster JG. <b>(under review).</b>
