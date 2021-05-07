@@ -5,6 +5,7 @@ date: 2021-05-06
 layout: splash
 ---
 
+# Papers and Works in Progress
 
 HINTS: time series prediction via dynamic heterogeneous information network embedding.  
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
