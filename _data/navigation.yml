@@ -10,6 +10,4 @@ main:
   - title: "About"
     url: /about/
  - title: "Tutorials"
-  children:
-    - title: "Birth-Death Processes"
     url: /about/
