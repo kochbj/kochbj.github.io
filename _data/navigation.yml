@@ -1,12 +1,14 @@
 main:
   - title: "CV"
     url: /files/bernardkoch_cv.pdf
+  - Tutorials
+    url: /tutorials/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  #- title: "Categories"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  #- title: "About"
+  #  url: /about/
 
