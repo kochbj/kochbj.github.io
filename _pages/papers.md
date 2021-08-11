@@ -9,7 +9,7 @@ layout: splash
 (with links to PDFs)
   
 [The Evolutionary Dynamics of Cultural Change (As Told Through the Birth and Brutal, Blackened Death of Metal Music).](https://osf.io/preprints/socarxiv/659bt/download)  
-<b>Koch BJ</b>, Silvestro D, Foster JG. <b>(under revision for the American Journal of Sociology).</b>
+<b>Koch BJ</b>, Silvestro D, Foster JG. <b>(R&R for the American Journal of Sociology).</b>
 
 [Deep Learning of Potential Outcomes.](https://github.com/kochbj/Deep-Learning-for-Causal-Inference/raw/main/Deep_Learning_of_Potential_Outcomes_Review.pdf)  
 <b>Koch BJ</b>, Sainburg T, Geraldo PE, Jiang S, Sun Y, Foster JG (order TBD). <b>(in progress).</b>
