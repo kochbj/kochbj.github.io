@@ -24,7 +24,7 @@ I'm Bernie. You can read the sidebar (or my CV) to learn a bit about me. I'm mos
 
 <span style="font-size:.75em">10/5/2021: "[Reduced, Reused, and Recycled: The Life of a Benchmark in Machine Learning Research](https://openreview.net/forum?id=zNQBIBKJRkd)" with Emily Denton, Alex Hanna, and my advisor Jacob Foster was accepted as an oral presentation at NeurIPS 202.</span>
 
-<span style="font-size:.75em">08/1/2021: The NSF Science of Science program gave me some money to do my dissertation.</span>
+<span style="font-size:.75em">08/1/2021: The NSF Science of Science program gave me a DDRIG grant to do my dissertation.</span>
 
 
 ### Tutorials
