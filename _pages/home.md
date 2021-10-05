@@ -4,6 +4,8 @@ permalink: /
 date: 2021-05-06
 layout: single
 classes: wide
+toc: true
+
 
 # Tutorials
 feature_row:
