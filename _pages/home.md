@@ -2,10 +2,8 @@
 title: ""
 permalink: /
 date: 2021-05-06
-layout: single
+layout: archive
 classes: wide
-toc: true
-
 
 # Tutorials
 feature_row:
