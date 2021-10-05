@@ -22,6 +22,6 @@ feature_row:
 # Hello!
 I'm Bernie. You can read the sidebar (or my CV) to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
-10/5/2021: "[Reduced Reused and Recycled](https://openreview.net/forum?id=zNQBIBKJRkd)" with Emily Denton, Alex Hanna and my advisor Jacob Foster accepted to NeurIPS as an oral presentation.
+10/5/2021: "[Reduced Reused and Recycled](https://openreview.net/forum?id=zNQBIBKJRkd)" with Emily Denton, Alex Hanna and my advisor Jacob Foster accepted to NeurIPS as an oral presentation!
 ### Tutorials
 {% include feature_row %}
