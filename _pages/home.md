@@ -20,7 +20,7 @@ feature_row:
 
 ---
 # Hello!
-I'm Bernie. You can read the sidebar (or my CV) to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
+I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
 **01/01/2022:** I am teaching an "Intro to Computational Social Science" course at Colby College for a month. I'm a little afraid of the cold, but the rest of the experience should be great!
 {: .notice}
