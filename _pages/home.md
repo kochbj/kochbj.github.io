@@ -22,6 +22,7 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
+<div id="notices">
 **03/22/2022:** I'm excited to be interning on the ML team at Spotify Research this summer.
 {: .notice}
 
@@ -39,5 +40,8 @@ I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly
 
 **08/1/2021:** The NSF Science of Science program gave me a DDRIG grant to do my dissertation.
 {: .notice}
+ 
+ </div>
+ 
 ### Tutorials
 {% include feature_row %}
