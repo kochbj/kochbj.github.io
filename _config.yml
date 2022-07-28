@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Bernie"
   avatar : "https://avatars.githubusercontent.com/u/293553?s=400&u=a3aa1ae757db01ea9a37d33e0691cbe03ec65c2f&v=4"
-  bio    : "I am a PhD student in the Sociology Department at UCLA interested in science and culture. I also dabble in machine learning, causal inference, and Bayesian modeling."
+  bio    : "I am a PhD student in the Sociology Department at UCLA interested in science and culture. I dabble in machine learning, causal inference, and Bayesian modeling. I also love to teach CSS-related things!"
   location: "Los Angeles, CA"
   links:
     - label: "Email"
