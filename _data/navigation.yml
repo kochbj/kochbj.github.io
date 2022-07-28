@@ -1,8 +1,8 @@
 main:
+  - title: "CV"
+    url: https://docs.google.com/document/d/1cvueT0pceHxhWXBsP6kvuYV7usHPY-SQPHkvpRfGo4I/edit?usp=sharing
   - title: "Résumé"
     url: /files/BernardKochResume_2021.pdf
-  - title: "CV"
-    url: /files/BernardKochCV_2022.pdf
   - title: "Papers"
     url: /papers/    
   - title: "Tutorials"
