@@ -1,3 +1,10 @@
+---
+title: "Thought on teaching methods"
+permalink: /teaching_methods/
+date: 2021-05-06
+layout: splash
+---
+
 # Thoughts about teaching social science
 
 I actually became interested in Sociology through my Biology research. During my time in Bioinformatics, I learned that science was not simply about revealing “facts” about the natural world, but that social mechanisms crucially shaped the packaging, publication, and dissemination of scientific knowledge. As a teacher of sociology, I aim to help students identify social mechanisms, articulate them theoretically, and develop analyses to test their theories. In other words, I want to teach students to approach the social world scientifically. In graduate school I learned that my beliefs were most closely aligned with Analytical Sociology and Bloor’s “Strong Programme.”
