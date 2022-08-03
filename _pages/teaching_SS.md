@@ -1,6 +1,6 @@
 ---
 title: "Thought on teaching methods"
-permalink: /teaching_methods/
+permalink: /teaching_SS/
 date: 2021-05-06
 layout: splash
 ---
