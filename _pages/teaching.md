@@ -15,6 +15,6 @@ Below I've posted the syllabus and some (rough) thoughts about my approaches to 
 
 [Syllabus]
 
-[Thoughts on teaching social science](teaching_ss)
+[Thoughts on teaching social science](/teaching_ss/)
 
-[Thoughts on teaching CSS methods](teaching_methods)
+[Thoughts on teaching CSS methods](/teaching_methods/)
