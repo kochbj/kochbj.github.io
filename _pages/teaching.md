@@ -13,7 +13,7 @@ Over the course of four weeks, we divided our time up relatively equally between
 
 Below I've posted the syllabus and some (rough) thoughts about my approaches to teaching. I'll continue to update those posts as my thoughts evolve.
 
-[Syllabus](https://docs.google.com/document/d/1l9JQLflhuqSkNL10aWxBqrnUVCPf-8fwRhHNBTIfsbQ/edit?usp=sharing)
+[Introduction to Computational Social Science Syllabus](https://docs.google.com/document/d/1l9JQLflhuqSkNL10aWxBqrnUVCPf-8fwRhHNBTIfsbQ/edit?usp=sharing)
 
 [Thoughts on teaching social science](https://bernardjkoch.com/teachingss/)
 
