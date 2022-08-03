@@ -22,7 +22,7 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
-**03/22/2022:** I'm excited to be interning on the ML team at Spotify Research this summer.
+**03/22/2022:** I'm excited to be interning at Spotify Tech Research this summer.
 {: .notice}
 
 **03/22/2022:** Jacob Foster and I were invited to speak at Apple University about "[Reduced, Reused, and Recycled: The Life of a Benchmark in Machine Learning Research](https://openreview.net/forum?id=zNQBIBKJRkd)".
