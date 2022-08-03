@@ -10,7 +10,7 @@ In Winter of 2022, I taught a for-credit, no-preqs course called "Introduction t
 
 Over the course of four weeks, we divided our time up (relatively) equally between four activities. In the morning I gave lectures on supervised ML, unsupervised ML, and network science. We also had a journal club where students took turns presenting CSS papers and critiquing them. In the afternoons, we alternated between hands-on activities applying algorithms to real data or working on two group projects. I'm extremely proud of the ground students were able to cover over four weeks.
 
-Below I've posted some syllabus and some (rough) thoughts about my approaches to teaching. I'll continue to update those posts as my thoughts evolve.
+Below I've posted the syllabus and some (rough) thoughts about my approaches to teaching. I'll continue to update those posts as my thoughts evolve.
 
 [Syllabus]
 
