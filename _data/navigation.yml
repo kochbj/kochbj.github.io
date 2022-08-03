@@ -4,7 +4,9 @@ main:
   - title: "Résumé"
     url: /files/BernardKochResume_2021.pdf
   - title: "Papers"
-    url: /papers/    
+    url: /papers/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Tutorials"
     url: /tutorials/
   #- title: "Posts"
