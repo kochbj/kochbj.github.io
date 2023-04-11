@@ -11,12 +11,12 @@ feature_row:
   alt: ""
   title: "DL + PO"
   excerpt: "Building deep learning estimators for causal inference. Gentle intro to Tensorflow 2."
-  url: "/dlci/"
+  url: "https://github.com/kochbj/Deep-Learning-for-Causal-Inference"
 - image_path: /files/White-Square.jpg
 - image_path: /files/LiteRateIcon.png
   title: "LiteRate"
   excerpt: "Studying change in (cultural, organizational, human) populations through birth/death rates."
-  url: "/literate/"
+  url: "https://github.com/dsilvestro/LiteRate"
 
 ---
 # Hello!
