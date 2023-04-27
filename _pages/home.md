@@ -22,10 +22,14 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
-**02/23/2023:** I have updated my [Deep Learning for Causal Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference) tutorial series with a new tutorial on uncertainty and interpretation.
-{: .notice} 
 
-**01/24/2023:** I'm delighted to be joining the faculty at UChicago Sociology!
+**02/23/2023:** I have updated my [Deep Learning for Causal Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference) tutorial series with a new tutorial on uncertainty and interpretation.
+{: .notice}
+
+**02/18/2023:** Excited to do a postdoc at Northwestern's Kellogg School of Management with Dashun Wang!
+{: .notice}
+
+**01/24/2023:** I'm delighted to be joining the faculty at UChicago Sociology! 
 {: .notice}
 
 **03/22/2022:** I'm excited to be interning at Spotify Tech Research this summer.
