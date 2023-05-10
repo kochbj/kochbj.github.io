@@ -23,6 +23,7 @@ feature_row:
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
 
+
 **02/23/2023:** I have updated my [Deep Learning for Causal Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference) tutorial series with a new tutorial on uncertainty and interpretation.
 {: .notice}
 
@@ -52,3 +53,7 @@ I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly
   
 ### Tutorials
 {% include feature_row %}
+
+{::nomarkdown}<div style="height:120px;width:120px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
+THIS IS A TEST THIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TES
+</div>{:/}
