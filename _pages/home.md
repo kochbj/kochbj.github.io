@@ -54,6 +54,10 @@ I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly
 ### Tutorials
 {% include feature_row %}
 
-{::nomarkdown}<div style="height:120px;width:120px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
+{::nomarkdown}
+
+<div style="height:120px;width:120px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
 THIS IS A TEST THIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TESTHIS IS AT TES
-</div>{:/}
+</div>
+
+{:/}
