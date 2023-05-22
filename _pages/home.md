@@ -55,6 +55,7 @@ I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly
 {% include feature_row %}
 
 {::nomarkdown}
+
 .cd-timeline {
   overflow: hidden;
   padding: var(--space-lg) 0;
