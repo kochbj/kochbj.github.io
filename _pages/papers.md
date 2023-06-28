@@ -14,7 +14,7 @@ layout: splash
 [The Evolutionary Dynamics of Cultural Change (As Told Through the Birth and Brutal, Blackened Death of Metal Music).](https://osf.io/preprints/socarxiv/659bt/download)  
 <b>Koch BJ</b>, Silvestro D, Foster JG. <b>(R&R for the American Journal of Sociology).</b>
 
-[Deep Learning of Potential Outcomes.](https://github.com/kochbj/Deep-Learning-for-Causal-Inference/raw/main/Deep_Learning_of_Potential_Outcomes_Review.pdf)  
+[Deep Learning for Causal Inference.](https://github.com/kochbj/Deep-Learning-for-Causal-Inference/raw/main/Deep_Learning_of_Potential_Outcomes_Review.pdf)(https://osf.io/preprints/socarxiv/aeszf/download)  
 <b>Koch BJ</b>, Sainburg T, Geraldo PE, Jiang S, Sun Y, Foster JG (order TBD). <b>(R&R at Sociological Methods and Research).</b>
 
 [HINTS: time series prediction via dynamic heterogeneous information network embedding.](https://kochbj.github.io/files/papers/HINTS.pdf)  
