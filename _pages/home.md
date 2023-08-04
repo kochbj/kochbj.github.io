@@ -22,6 +22,9 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
+**08/04/2023:** I was invited to speak in the TIES seminar series at MIT Sloan in the Fall.
+{: .notice}
+
 **05/16/2023:** I spoke on a panel at Microsoft Research Asia on the future of large language models in research and education.
 {: .notice}
 
