@@ -15,7 +15,7 @@ layout: splash
 <b>Koch BJ</b>, Silvestro D, Foster JG. <b>(R&R for the American Journal of Sociology).</b>
 
 [Deep Learning for Causal Inference.](https://osf.io/preprints/socarxiv/aeszf/download)  
-<b>Koch BJ</b>, Sainburg T, Geraldo PE, Jiang S, Sun Y, Foster JG (order TBD). <b>(R&R at Sociological Methods and Research).</b>
+<b>Koch BJ</b>, Sainburg T, Geraldo PE, Jiang S, Sun Y, Foster JG (order TBD). <b>(forthcoming at Sociological Methods and Research).</b>
 
 [HINTS: time series prediction via dynamic heterogeneous information network embedding.](https://kochbj.github.io/files/papers/HINTS.pdf)  
 Jiang S, <b>Koch BJ</b>, Sun Y. <b>WWW</b>, 2021.
