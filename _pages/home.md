@@ -22,6 +22,22 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
+<section class="cd-timeline js-cd-timeline">
+  <div class="container max-width-lg cd-timeline__container">
+    <div class="cd-timeline__block">
+      <div class="cd-timeline__img cd-timeline__img--picture">
+        <img src="path-to-your-image.svg" alt="Timeline Image">
+      </div>
+      <div class="cd-timeline__content text-component">
+        <h2>Event Title 1</h2>
+        <p>Your event description goes here.</p>
+        <span class="cd-timeline__date">March 18, 2024</span>
+      </div>
+    </div>
+    <!-- Repeat similar blocks for additional events -->
+  </div>
+</section>
+
 **08/15/2023:** "[Reduced, Reused, and Recycled](https://openreview.net/forum?id=zNQBIBKJRkd)" will be featured in the [Montreal AI Ethics newsletter](https://montrealethics.ai/reduced-reused-and-recycled-the-life-of-a-benchmark-in-machine-learning-research/).
 {: .notice}
 
