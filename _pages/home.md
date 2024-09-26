@@ -22,7 +22,8 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
-{: notice}
+
+
 **08/01/2024** [A Primer on Deep Learning for Causal Inference](../files/papers/DLforCI.pdf) was finally published in Sociological Methods and Research
 {: notice}
 
