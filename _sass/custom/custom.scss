@@ -1,0 +1,38 @@
+.news-reel {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  height: 600px; /* Adjust to show 3 boxes at a time */
+  position: relative;
+}
+
+.news-item {
+  flex: 0 0 33.33%; /* 3 boxes displayed at a time */
+  min-height: 33.33%;
+  height: 200px; /* Adjust as needed */
+  box-sizing: border-box;
+  transition: transform 0.5s ease-in-out;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+.news-reel::before,
+.news-reel::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 10%;
+  pointer-events: none;
+  background: linear-gradient(to bottom, white 0%, transparent 100%);
+}
+
+.news-reel::before {
+  top: 0;
+}
+
+.news-reel::after {
+  bottom: 0;
+  background: linear-gradient(to top, white 0%, transparent 100%);
+}
