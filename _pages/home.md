@@ -22,8 +22,6 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
-{% include timeline.html %}
-
 **08/15/2023:** "[Reduced, Reused, and Recycled](https://openreview.net/forum?id=zNQBIBKJRkd)" will be featured in the [Montreal AI Ethics newsletter](https://montrealethics.ai/reduced-reused-and-recycled-the-life-of-a-benchmark-in-machine-learning-research/).
 {: .notice}
 
