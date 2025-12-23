@@ -22,7 +22,7 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
-**12/22/2025** David Peterson and AI wrote an [op-ed for TIME Magazine](https://time.com/7340901/ai-history-bubble-benchmarks/) on the history of evaluation in AI and what it can teach us about the potential and limits of LLMs.
+**12/22/2025** David Peterson and I wrote an [op-ed for TIME Magazine](https://time.com/7340901/ai-history-bubble-benchmarks/) on the history of evaluation in AI and what it can teach us about the potential and limits of LLMs.
 {: .notice}
 
 **09/01/2025** I talked about benchmarking at Microsoft Research Asia, Tsinghua, ASA, and 4S this summer.
