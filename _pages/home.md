@@ -23,13 +23,13 @@ feature_row:
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
 **12/22/2025** David Peterson and AI wrote an [op-ed for TIME Magazine](https://time.com/7340901/ai-history-bubble-benchmarks/) on the history of evaluation in AI and what it can teach us about the potential and limits of LLMs.
-{: notice}
+{: .notice}
 
 **09/01/2025** I talked about benchmarking at Microsoft Research Asia, Tsinghua, ASA, and 4S this summer.
-{: notice}
+{: .notice}
 
 **08/01/2024** [A Primer on Deep Learning for Causal Inference](../files/papers/DLforCI.pdf) was finally published in Sociological Methods and Research
-{: notice}
+{: .notice}
 
 **05/24/2024** [Data-centric Machine Learning Research: Past, Present, and Future](https://data.mlr.press/assets/pdf/v01-5.pdf) published in the DMLR Journal
 {: .notice}
