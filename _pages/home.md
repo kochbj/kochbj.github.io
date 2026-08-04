@@ -22,6 +22,10 @@ feature_row:
 # Hello!
 I'm Bernie. You can check out my résumé/CV to learn a bit about me. I'm mostly using this site to share things I've been working on. Feel free to reach out if you'd like to chat!
 
+**07/01/2026** I taught a course on the future of social science called "Social Science 2030" at Tsinghua and gave a talk at China's new AI research institute, Zhongguancun Academy.
+{: .notice}
+
+
 **12/22/2025** David Peterson and I wrote an [op-ed for TIME Magazine](https://time.com/7340901/ai-history-bubble-benchmarks/) on the history of evaluation in AI and what it can teach us about the potential and limits of LLMs.
 {: .notice}
 
